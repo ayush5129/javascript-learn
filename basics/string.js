@@ -9,7 +9,7 @@ console.log(`My name is ${name} and my fevorate game is ${gameName}`) //  New me
 // length property
 console.log(gameName.length)
 //prototype
-console.log(__proto__);  ///  give a object
+console.log(__proto__);  ///  give a windwo object
 // upper and lower case
 console.log(gameName.toLowerCase());
 console.log(gameName.toUpperCase());
